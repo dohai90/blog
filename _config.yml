@@ -1,11 +1,6 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
-author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+title: Remember Me's Blog
+description: "A blog to remind me about some useful tips"
 
 # Build settings
 baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
