@@ -1,4 +1,6 @@
 ---
 title: Hello World
+published: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
+# Hellow World!
+This is the first post on my new blog. I hate writing but I need to write something to remind me. Therefore, I call this blog **Remember Me**. I am an embedded AI developer so this blog will focus on my knowledge and other people's knowledge about AI. Because my head is so small so I can not remember everything. That's why I need to write this blog. Hmm... I don't know to write anything else. As same as every first program when learning programming lenguages, I will keep this blog as simple as posible. 
