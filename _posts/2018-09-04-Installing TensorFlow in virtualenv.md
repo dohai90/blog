@@ -1,5 +1,3 @@
-# Installing TensorFlow in virtualenv #
-
 In this post I will talk about installing TensorFlow in virtualenv to prevent conflicting between packages. After installed, we can create jupyter-notebook kernel including virtualenv with TensorFlow. Let's gooooo......^^
 
 ## 1. Installing TensorFlow ##
